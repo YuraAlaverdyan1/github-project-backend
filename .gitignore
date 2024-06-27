@@ -1,0 +1,15 @@
+node_modules
+.idea
+
+.env
+
+.vercel
+
+# Local Netlify folder
+.netlify
+
+# Vercel config file
+vercel.json
+
+# Build directory
+build

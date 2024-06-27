@@ -1,0 +1,1 @@
+export { getCommitActivityForRepo } from './getCommitActivityForRepo';
